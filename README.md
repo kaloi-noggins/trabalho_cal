@@ -32,4 +32,4 @@ As regiões já consultadas são armazendas num arquivo de cache. O cache cresce
 
 ### 3 - Santa Catarina, Brasil
 
-![data/mapa_sc_sem_caminho](data/mapa_sc_sem_caminho.png)
+![data/mapa_sc_sem_caminho](data/Santa%20Catarina,%20Brasil.png)
