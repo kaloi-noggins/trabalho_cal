@@ -18,7 +18,7 @@ Para utlilizar, basta executar o notebook do Jupyter em sua IDE de preferência.
 
 Este notebook necessita de uma quantidade razoável de memório para execução, sendo 16GB o mínimo recomendável para obter figuras bonitinhas para visualização em uma cidade. É possível trocar as dimensões e DPI das figuras para execução em ambientes com menos memória. Um teste utilizando a cidade de Joinville, com figuras de dimensão (128,128) e dpi=2000, consumiu 14GB de memória. Para uma visualização de todo o estado de SC, foram necessário 40GB+ de memória. Se você tiver memória o suficiente, vá em frente e divirta-se com diferentes regiões!
 
-As regiões já consultadas são armazendas num arquivo de cache. conforme
+As regiões já consultadas são armazendas num arquivo de cache. O cache cresce conforme uso, para evitar requisições desnecessárias.
 
 ## Algumas Imagens Bonitas de Exemplo
 
